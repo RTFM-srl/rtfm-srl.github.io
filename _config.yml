@@ -1,7 +1,27 @@
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme
-title: RTFM
+title: RTFM srl
+author: RTFM
 description: |
-  RTFM srl - Via Paolina Bonaparte, 9 - 55049 Viareggio LU - P.IVA 02670640461 ✉️ info at rtfm.srl
-show_downloads: false
+  Software development, DevOps, Smart Contracts and LLM.
+
+baseurl: ""
+url: "https://www.rtfm.srl"
+
+# social links
+# twitter_username:
+# github_username: 
+# facebook_username:
+# instagram_username:
+# linkedin_username:
+# rss: rss
+
+# integrations
+#disqus:
+#  shortname:
+
+# others
+permalink: /:year/:title/
+timezone: Europe/Rome
+
+theme: jekyll-theme-hydeout
+plugins:
+  - jekyll-seo-tag
