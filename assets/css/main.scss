@@ -12,3 +12,17 @@ $layout-reverse: false;
 ul ul {
   margin-bottom: 0em;
 }
+
+input, textarea {
+  margin-bottom: 1rem;
+  font-size: 0.8rem;
+}
+
+textarea {
+  border-radius: 1rem;
+  box-sizing: border-box;
+  width: 18rem;
+}
+#contact-form {
+  margin-top: 1rem;
+}

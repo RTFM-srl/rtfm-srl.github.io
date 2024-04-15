@@ -13,6 +13,8 @@ Italy 🇮🇹
 
 P.IVA 02670640461
 
-## ✉️ Contact information
+## ✉️ Contact us
 
-info [at] rtfm.srl
+Send a message at **info** [at] **rtfm.srl** or use the contact form below:
+
+{% include email.html %}
